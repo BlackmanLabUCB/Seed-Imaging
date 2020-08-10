@@ -145,4 +145,4 @@ There are programatic ways to deal with many of these issues, all of which discu
 ## Acknowledgements
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 
- <img src="readme_images/excited.gif">
+ 
