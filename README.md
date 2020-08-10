@@ -48,7 +48,8 @@ Note the blurry image quality, poor lighting, bad contrast and light bleed from 
         2. On most smartphones it is incredibly time consuming to rename or tag images with any useful information. If the order of the seeds is known, it is trivial to rename images based on the order at which the images come in, and taking a picture of a ruler, with a the number in the list the next or last seed image taken was is a great way to help keep yourself on track!
     5. Here is an example of a good image of a ruler.
     
-    <img src="readme_images/R1.jpg" width = 400> 
+    <img src="readme_images/R1.jpg" width = 400>
+    
 Note how the ruler is straight, the measuring incraments are easy to understand, and the order number is easy to read.    
 
 5. Once you have good images. You are ready to start analyzing!
@@ -62,6 +63,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
     1. From within ImageJ click the straight line tool(denoted in red) and mark the two pounds between a known point on your ruler.<img src="readme_images/R3.jpg"> 
         1. Sometimes it is helpful to zoom in to your image to ensure you are hitting the right points. This won't effect the measurement. 
     2.  ImageJ ➡️ Analyze ➡️ Set Scale  
+    
     <img src="readme_images/R2.jpg" width = 300> 
     
     3. You will be shown the following screen. Record "Distance in Pixels". The known distance is what ever you chose on your ruler. In our the case of the above example, our known distance would be 1/10<sup>th</sup> of an inch or 2.54mm. 
@@ -83,6 +85,7 @@ Note how the ruler is straight, the measuring incraments are easy to understand,
 2. ImageJ ➡️ Type ➡️ 8-bit - To convert the image to an 8-bit image.  
 
 <img src="readme_images/M1.jpg" width = 300> 
+
 3. ImageJ ➡️ Adjust ➡️ Threshhold - To open the Threshhold menu.   
 
 <img src="readme_images/M2.jpg" width = 300> 
