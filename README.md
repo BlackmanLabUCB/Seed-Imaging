@@ -14,7 +14,7 @@ By: Ian C. Anderson <iananderson@berkeley.edu>
 ## Required Materials
 [Back to the top](#Measuring-seeds-using-Fiji-and-other-distributions-of-ImageJ)
 1. A computer with Windows, MacOS, or Linux.
-    1. The Python Operating system(Optional, largely unneccesary)  
+    1. With Java installed.  
 2. A camera or smartphone with a camera
 3. A ruler
 4. A stand or other apparatus able to hold camera at consistence distance (very important!)
