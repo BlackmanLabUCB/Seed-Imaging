@@ -1,5 +1,10 @@
 # Measuring seeds using Fiji and other distributions of imageJ
 By: Ian C. Anderson <iananderson@berkeley.edu> 
+TODO:
+* Troubleshooting
+* Advanced Ideas
+* Acknolwedgments 
+* grammer/spelling/wordflow.
 
 1. [Required Materials](#Required-Materials)
 2. [Getting Started](#Getting-Started)
